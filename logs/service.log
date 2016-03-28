@@ -1,0 +1,17 @@
+2016-03-11T01:14:17,210 [INFO ] (NamesService.java:25) - Method called.
+2016-03-11T01:14:17,991 [INFO ] (NamesService.java:61) - Connection to DB resolved
+2016-03-11T01:14:18,047 [ERROR] (NamesService.java:40) - Tried to insert duplicate number into DB!
+2016-03-11T01:40:24,913 [INFO ] (NamesService.java:20) - Method called.
+2016-03-11T01:40:25,786 [INFO ] (NamesService.java:56) - Connection to DB resolved
+2016-03-11T01:40:25,827 [ERROR] (NamesService.java:35) - Tried to insert duplicate number into DB!
+2016-03-11T01:41:13,437 [INFO ] (NamesService.java:20) - Method called.
+2016-03-11T01:41:13,571 [INFO ] (NamesService.java:56) - Connection to DB resolved
+2016-03-11T01:41:13,963 [INFO ] (NamesService.java:31) - SQL Query executed!
+2016-03-11T01:41:13,968 [INFO ] (NamesService.java:46) - New entry successful added to DB.
+2016-03-11T01:56:03,676 [INFO ] (NamesService.java:20) - Method called.
+2016-03-11T01:56:04,342 [INFO ] (NamesService.java:56) - Connection to DB resolved
+2016-03-11T01:56:04,377 [ERROR] (NamesService.java:35) - Tried to insert duplicate number into DB!
+2016-03-12T12:20:57,339 [INFO ] (NamesService.java:20) - Method called.
+2016-03-12T12:21:00,493 [ERROR] (NamesService.java:60) - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
